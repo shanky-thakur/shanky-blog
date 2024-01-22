@@ -1,0 +1,30 @@
+body,
+html {
+    font-family: Georgia;
+    background-color: rgb(229, 232, 232);
+}
+
+nav {
+    background-color: transparent;
+    color: rgb(27,38,49);
+    font-family: Georgia;
+}
+
+span {
+    color: rgb(27,38,49);
+}
+
+.quote {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+nav ul li {
+    position: relative;
+}
+
+nav ul ul {
+    position: absolute;
+    width: 100%;
+}
